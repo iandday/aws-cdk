@@ -56,3 +56,5 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+
+https://github.com/zoph-io/aws-internal-static-web-hosting
